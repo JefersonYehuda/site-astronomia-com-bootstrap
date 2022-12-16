@@ -1,5 +1,5 @@
-# blog-astronomia-bootstrap
+# Site estático de astronomia
 
-Um blog de astronomia simples com vídeos como background, feito com bootstrap, html e css.
+Um site de astronomia simples com vídeos como background, feito com bootstrap, html e css.
 
 ## Acesse o site: https://vidaestelar.netlify.app/
